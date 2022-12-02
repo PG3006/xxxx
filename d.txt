@@ -1,2 +1,0 @@
-experience in Azure ad connect implementation for synronizing
- the 
