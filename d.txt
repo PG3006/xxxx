@@ -1,0 +1,3 @@
+experience in Azure ad connect implementation for synronizing
+ the user object onprem to azure AD
+

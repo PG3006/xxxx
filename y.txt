@@ -1,0 +1,4 @@
+Recently I worked on Machine learning project, where I worked for ADF, 
+ datafactory 
+and datalake storage account for deployments and configuration
+
