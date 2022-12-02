@@ -1,1 +1,1 @@
-eriance in Monitoring configurtaion for both service like IAAS and PAAS Services
+ Services
